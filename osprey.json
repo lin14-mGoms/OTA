@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1578924389,
-      "filename": "lineage-14.1-20200113-UNOFFICIAL-microG-osprey.zip",
-      "id": "08219957d7d76b78dc8d80ac1374664c",
+      "datetime": 1581063930,
+      "filename": "lineage-14.1-20200207-UNOFFICIAL-microG-osprey.zip",
+      "id": "3e7cc93783f7dcb041e9887ab3d7e932",
       "romtype": "UNOFFICIAL-microG",
-      "size": 375420501,
-      "url": "https://sourceforge.net/projects/lin14-mgoms/files/osprey/lineage-14.1-20200113-UNOFFICIAL-microG-osprey.zip/download",
+      "size": 375487875,
+      "url": "https://sourceforge.net/projects/lin14-mgoms/files/osprey/lineage-14.1-20200207-UNOFFICIAL-microG-osprey.zip/download",
       "version": "14.1"
     }
   ]
