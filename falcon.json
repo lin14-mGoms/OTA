@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1602237261,
-      "filename": "lineage-14.1-20201009-UNOFFICIAL-mG-oms-falcon.zip",
-      "id": "150a1c83354e5b4eda111cffbbf0c7e8",
+      "datetime": 1604697101,
+      "filename": "lineage-14.1-20201106-UNOFFICIAL-mG-oms-falcon.zip",
+      "id": "16660922eba4f75b14d986e4e2526801",
       "romtype": "UNOFFICIAL-mG-oms",
-      "size": 366144643,
-      "url": "https://sourceforge.net/projects/lin14-mgoms/files/falcon/lineage-14.1-20201009-UNOFFICIAL-mG-oms-falcon.zip/download",
+      "size": 368061200,
+      "url": "https://sourceforge.net/projects/lin14-mgoms/files/falcon/lineage-14.1-20201106-UNOFFICIAL-mG-oms-falcon.zip/download",
       "version": "14.1"
     }
   ]
