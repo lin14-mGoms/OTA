@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1604786077,
-      "filename": "lineage-14.1-20201107-UNOFFICIAL-oms-peregrine.zip",
-      "id": "961cb4b3e3980a8ff5971acee35868a7",
+      "datetime": 1608288326,
+      "filename": "lineage-14.1-20201218-UNOFFICIAL-oms-peregrine.zip",
+      "id": "41b77ff084f9129af1e8125527cfb9b7",
       "romtype": "UNOFFICIAL-oms",
-      "size": 342195284,
-      "url": "https://sourceforge.net/projects/lin14-mgoms/files/peregrine/lineage-14.1-20201107-UNOFFICIAL-oms-peregrine.zip/download",
+      "size": 342198176,
+      "url": "https://sourceforge.net/projects/lin14-mgoms/files/peregrine/lineage-14.1-20201218-UNOFFICIAL-oms-peregrine.zip/download",
       "version": "14.1"
     }
   ]
